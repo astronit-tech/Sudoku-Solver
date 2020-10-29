@@ -69,3 +69,5 @@ if solve_sudoku():
     print_sudoku()
 else:
     print("Syntax Error")
+
+# Author:- Prayangshu Biswas Hritwick <hritwickv@gmail.com>    
