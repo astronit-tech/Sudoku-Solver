@@ -1,4 +1,4 @@
-# Sudoku-Solver
+# $Sudoku-Solver
 
 
 ## Requirements
@@ -11,7 +11,6 @@
 git clone https://github.com/x44uarbdx/Sudoku-Solver
 cd Sudoku-Solver
 python solvesudoku.py
-
 ```
 
 
